@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.402492b1.css",
+    "main.js": "/static/js/main.32f8eae4.js",
+    "static/media/apple_watch_series_9_order.jpg": "/static/media/apple_watch_series_9_order.f39f493afb797b07dd00.jpg",
+    "static/media/iphone15pro.jpg": "/static/media/iphone15pro.74e4fb5848979457027c.jpg",
+    "static/media/ipadpro_refresh.jpg": "/static/media/ipadpro_refresh.85c517032dc3bf021820.jpg",
+    "static/media/iphone15.jpg": "/static/media/iphone15.78bfd762f0c9a272360c.jpg",
+    "static/media/apple_watch_ultra2.jpg": "/static/media/apple_watch_ultra2.b28d842c7fcea9d30a31.jpg",
+    "static/media/apple_watch_carbon_neutral.jpg": "/static/media/apple_watch_carbon_neutral.d5994307a97e76b73acb.jpg",
+    "static/media/promo_macbook_air_15_midnight__3zojl1nanrme_large.jpg": "/static/media/promo_macbook_air_15_midnight__3zojl1nanrme_large.b11ae5644a775a66ad38.jpg",
+    "static/media/apple_watch_se_order.jpg": "/static/media/apple_watch_se_order.2a67b14885db00a35d36.jpg",
+    "static/media/airpods_pro_order.jpg": "/static/media/airpods_pro_order.8f1819d4e0c17bba4b1d.jpg",
+    "index.html": "/index.html",
+    "main.402492b1.css.map": "/static/css/main.402492b1.css.map",
+    "main.32f8eae4.js.map": "/static/js/main.32f8eae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402492b1.css",
+    "static/js/main.32f8eae4.js"
+  ]
+}
